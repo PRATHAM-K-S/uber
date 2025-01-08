@@ -39,7 +39,7 @@ The request body should be a JSON object containing the following fields:
         "lastname": "Doe"
       },
       "email": "john.doe@example.com",
-      "password":"hashed_password",
+      "password":"hashedPassword"
     },
     "token": "jwt_token"
   }
@@ -103,7 +103,7 @@ The request body should be a JSON object containing the following fields:
         "lastname": "Doe"
       },
       "email": "john.doe@example.com",
-      "password":"hashed_password",
+      "password":"hashedPassword"
     },
     "token": "jwt_token"
   }
